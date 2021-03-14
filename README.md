@@ -5,7 +5,7 @@ Analysis of the Paper "Negative Data Augmentation" (ICLR 2021)
 
 - Arxiv: [here](https://arxiv.org/abs/2102.05113)
 
-![img1](NegativeDataAugmentation1.png)
+![img1](images/NegativeDataAugmentation1.png)
 
 
 
@@ -41,12 +41,26 @@ Also available on LinkedIn [here](https://www.linkedin.com/feed/update/urn:li:ac
 
 Understand more details about the paper 
 
-- [Idea: Positive Data Augmentation](details/positive_data_augmentation.ipynb)
+## Positive Data Augmentation
+
+Math
+
+- [Idea: Positive Data Augmentation)](details/positive_data_augmentation.ipynb)
+
+
+
+## Negative Data Augmentation
+
+Math
 
 - [Idea: Negative Data Augmentation](details/negative_data_augmentation.ipynb)
 
+Intuition
 
+![nda1](images/nda_gan1.png)
 
+- The goal of the generator is to learn the underlying data distribution 
 
+- The transformation T transforms a data point which certainly belongs to the underlying data distribution into another data point which certainly does not belong to the underlying data distribution 
 
 
