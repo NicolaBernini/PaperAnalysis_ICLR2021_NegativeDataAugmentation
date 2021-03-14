@@ -41,5 +41,12 @@ Also available on LinkedIn [here](https://www.linkedin.com/feed/update/urn:li:ac
 
 Understand more details about the paper 
 
-- [Positive Data Augmentation](details/positive_data_augmentation.ipynb)
+- [Idea: Positive Data Augmentation](details/positive_data_augmentation.ipynb)
+
+- [Idea: Negative Data Augmentation](details/negative_data_augmentation.ipynb)
+
+
+
+
+
 
