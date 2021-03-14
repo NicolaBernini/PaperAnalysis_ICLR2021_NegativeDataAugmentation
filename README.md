@@ -5,11 +5,17 @@ Analysis of the Paper "Negative Data Augmentation" (ICLR 2021)
 
 - Arxiv: [here](https://arxiv.org/abs/2102.05113)
 
+
+
+# TLDR
+
+## Key points 
+
 ![img1](images/NegativeDataAugmentation1.png)
 
 
 
-# TLDR
+## Summary
 
 Very interesting paper about generative models
 
@@ -35,27 +41,31 @@ The repulsive potential has the same theoretical guarantees and makes the more s
 
 Also available on LinkedIn [here](https://www.linkedin.com/feed/update/urn:li:activity:6765609955648147456/)
 
-
+------
 
 # Details 
 
-Understand more details about the paper 
+More details about the paper 
 
 ## Positive Data Augmentation
 
-Math
+### Math
 
 - [Idea: Positive Data Augmentation](details/positive_data_augmentation.ipynb)
+
+### Summary 
+
+- Invariances can be used to manipulate in-distribution samples and produce more in-distribution samples
 
 
 
 ## Negative Data Augmentation
 
-Math
+### Math
 
 - [Idea: Negative Data Augmentation](details/negative_data_augmentation.ipynb)
 
-Intuition
+### Intuition
 
 ![nda_gan1](images/nda_gan1.png)
 
@@ -76,6 +86,14 @@ Some examples of such negative augmentation functions
 
 
 
+
+### Questions from my side 
+
+1. What negative functions are more effective in training the generator? 
+
+- Effectiveness can be measured with samples efficiency, so the less samples or the less negative samples the better 
+
+- Probably this is also dependent on the specific generator used 
 
 
 
