@@ -57,10 +57,25 @@ Math
 
 Intuition
 
-![nda1](images/nda_gan1.png)
+![nda_gan1](images/nda_gan1.png)
 
 - The goal of the generator is to learn the underlying data distribution 
 
 - The transformation T transforms a data point which certainly belongs to the underlying data distribution into another data point which certainly does not belong to the underlying data distribution 
+
+So while invariances manipulate existing in-distribution samples to produce other in-distribution samples, the negative augmentation functions transform in-distribution samples into out of distribution samples (with some degree of similarity to the original samples), so they do the opposite job
+
+
+
+## Examples of Negative Augmentation Functions 
+
+Some examples of such negative augmentation functions 
+
+![nda_gan2](images/nda_gan2.png)
+
+
+
+
+
 
 
