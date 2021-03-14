@@ -45,7 +45,7 @@ Understand more details about the paper
 
 Math
 
-- [Idea: Positive Data Augmentation)](details/positive_data_augmentation.ipynb)
+- [Idea: Positive Data Augmentation](details/positive_data_augmentation.ipynb)
 
 
 
