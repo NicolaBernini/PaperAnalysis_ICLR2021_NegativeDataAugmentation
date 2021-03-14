@@ -34,3 +34,12 @@ The repulsive potential has the same theoretical guarantees and makes the more s
 -------
 
 Also available on LinkedIn [here](https://www.linkedin.com/feed/update/urn:li:activity:6765609955648147456/)
+
+
+
+# Details 
+
+Understand more details about the paper 
+
+- [Positive Data Augmentation](positive_data_augmentation.ipynb)
+
