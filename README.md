@@ -41,5 +41,5 @@ Also available on LinkedIn [here](https://www.linkedin.com/feed/update/urn:li:ac
 
 Understand more details about the paper 
 
-- [Positive Data Augmentation](positive_data_augmentation.ipynb)
+- [Positive Data Augmentation](details/positive_data_augmentation.ipynb)
 
